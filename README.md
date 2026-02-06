@@ -2,7 +2,7 @@
 
 **visit my first project**
 
-![viewfinal](![Image](https://github.com/user-attachments/assets/7aebace8-e5c2-4701-b132-4401b542fbae))
+![viewfinal](![Image](https://github.com/user-attachments/assets/7aebace8-e5c2-4701-b132-4401b542fbae.jpg))
 
 ![view final](![Image](https://github.com/user-attachments/assets/732c35ba-6176-4680-90af-382f93edd2ab))
 
