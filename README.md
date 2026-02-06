@@ -6,7 +6,7 @@
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://behrokhnaderi.github.io/Hotel/)
 
 - Developed by Behrokh Naderi
 
@@ -18,5 +18,5 @@
 
 - Role - Frontend
 
-- How to reach me : with my [email](https://www.naderibehrokh@gmail.com)
+- How to reach me : with my [Gmail](https://www.naderibehrokh@gmail.com)
 
